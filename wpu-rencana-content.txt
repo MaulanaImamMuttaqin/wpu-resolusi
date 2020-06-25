@@ -2,6 +2,10 @@ rencana kontent dari jsmiot
 
 buat game
   *game nya simle dah mudah dikoding
+
   *buat game degan visual modern
+  *game retro
 buat aplikasi seperti wa
-  *tampilan nya simple dan tidak rumit
+  *bisa video call banyak orang
+  *menarik dan interaktif
+
