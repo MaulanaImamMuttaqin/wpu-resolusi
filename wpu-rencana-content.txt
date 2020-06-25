@@ -3,6 +3,7 @@ rencana kontent dari jsmiot
 buat game
   *game dengan online multiplayer
   *game nya simle dah mudah dikoding
+  *game retro
 buat aplikasi seperti wa
   *bisa video call banyak orang
   *menarik dan interaktif
